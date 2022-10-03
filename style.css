@@ -1,0 +1,51 @@
+	form {
+		border:1px solid;
+	}
+	.advanced {
+		background-color:#019DFF;
+		color:white;
+		font-size:20px;
+	}
+	h1 {
+		color:#ff0000;
+		text-align:left;
+	}
+	body {  //border:3px solid red;
+		text-align:center;
+	}
+	a {
+		text-decoration:none;
+		text-align:left;
+	}
+	ul {
+  		list-style-type: none;
+		position:absolute;
+		right:10px;
+		text-align:left;
+		margin:5px;
+		
+	}
+	ul li button {	
+		position:relative;
+		float:left;
+	}
+	.link {
+		position:relative;
+		float:right;
+		top:-70px;
+		right:50px;
+		//margin:10px;
+	}
+
+	.center {
+  		margin: auto;
+  		width: 50%;
+  		//border: 3px solid green;
+  		padding: 10px;
+		width:90%;
+
+	}
+	.prompt {
+		text-align:left;
+	}
+	
